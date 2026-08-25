@@ -2,7 +2,7 @@
 
 ### AI-Assisted Multi-Source Financial Reconciliation
 
-CONCORD is an AI-assisted financial reconciliation system that compares transaction records across multiple financial sources — payment gateways, bank records, and internal ledgers — and determines whether they represent the same underlying transaction.
+CONCORD is an AI-assisted financial reconciliation system that compares transaction records across multiple financial sources - payment gateways, bank records, and internal ledgers, and determines whether they represent the same underlying transaction.
 
 The system is designed to reduce manual reconciliation effort by automatically resolving high-confidence matches, using AI to analyze ambiguous records, and surfacing genuine discrepancies for human review.
 
