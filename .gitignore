@@ -1,7 +1,38 @@
-venv/
+# Python
+backend/venv/
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Environment / secrets
 .env
-*.db
-node_modules/
-dist/
+.env.*
+!.env.example
+
+# AI/API keys
+*.key
+secrets/
+credentials/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python generated files
+.pytest_cache/
+.mypy_cache/
+
+# Local test/debug files
+backend/test_ai.py
+
+INFO.md
+
+tests/
